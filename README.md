@@ -1,6 +1,7 @@
 ### 🤖 Think Simple
 
-- 👾 I am an Backend Developer in Turkey, Istanbul 
+- 👾 I am an Backend Developer with focusing Cloud Services
+- 
 - 💬 Ask me about C#, Golang and AWS Cloud Services
 
 
