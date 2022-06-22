@@ -1,12 +1,21 @@
-### 🤖 Think Simple
+# Hi there 👋 
 
-- 👾 I am an Backend Developer with focusing Cloud Services
+I'm Mert, Software Engineer with focusing Cloud Services
+
+[![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")](https://www.linkedin.com/in/mrtkmynsn)
+
+Skills
+
+![alt text](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white "Golang")
+![alt text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "Csharp")
+![alt text](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white "AWS Cloud")
+
+
+
+
 - 💬 Ask me about C#, Golang and AWS Cloud Services
-
-
-### ℹ Bio 
-
 - 🏢 I'm currently working at Yemeksepeti | Delivery Hero
+
 
 
 #### &#x1f4c8; GitHub Stats
