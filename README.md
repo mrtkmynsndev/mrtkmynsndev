@@ -12,9 +12,8 @@ Skills
 
 
 
-
 - 💬 Ask me about C#, Golang and AWS Cloud Services
-- 🏢 I'm currently working at Yemeksepeti | Delivery Hero
+- 🏢 I'm currently working at Hepsiburada
 
 
 
