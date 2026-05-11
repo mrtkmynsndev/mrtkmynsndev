@@ -13,7 +13,7 @@ Skills
 
 
 - 💬 Ask me about C#, Golang and AWS Cloud Services
-- 🏢 I'm currently working at Hepsiburada
+- 🏢 I'm currently working at Trendyol
 
 
 
